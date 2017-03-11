@@ -1,6 +1,6 @@
 # [Seminar Advanced Software Engineering UZH](http://www.ifi.uzh.ch/en/seal/teaching/courses/semadvse.html)
 
-## Developer's Productivity
+### Developer's Productivity
 
 My [Response Paper](https://github.com/rafaelkallis/advanced-software-engineering-seminar/blob/master/report1.pdf).
 
@@ -11,7 +11,7 @@ Citations:
 
 ---
 
-## Software Quality & Testing
+### Software Quality & Testing
 
 My [Response Paper](https://github.com/rafaelkallis/advanced-software-engineering-seminar/blob/master/report2.pdf).
 
